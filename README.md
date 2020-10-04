@@ -2,9 +2,9 @@
 
 # Some Infos About Me
 
-- 👀 Name: Umut
-- 🖥️ I'm a Turkish guy who loves coding
-- 📢 For more info's look at [my persona website](https://umutdev.xyz)
+- 👀 Name: **Umut**
+- 🖥️ Who?: **I'm a Turkish guy who loves coding**
+- 📢 **For more info's look at** [my persona website](https://umutdev.xyz)
 
 # Language Persences
 
@@ -12,6 +12,6 @@
 
 # Contact Me
 
-- [Discord](https://discord.com/users/274615370214670336)
-- [Twitter]()
+- [Website](https://umutdev.xyz)
+- [Discord, "Umut.py#2112"](https://discord.com/users/274615370214670336)
 - [Steam](https://steamcommunity.com/id/klyne312/)
