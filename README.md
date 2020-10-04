@@ -2,9 +2,9 @@
 
 # Some Infos About Me
 
-👀 - Name: Umut
-🖥️ - I'm a Turkish guy who loves coding
-📢 - For more info's look at [my persona website](https://umutdev.xyz)
+- 👀 Name: Umut
+- 🖥️ I'm a Turkish guy who loves coding
+- 📢 For more info's look at [my persona website](https://umutdev.xyz)
 
 # Language Persences
 
