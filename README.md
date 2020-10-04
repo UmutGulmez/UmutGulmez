@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm Umut 👋
 
-<!--
-**UmutGulmez/UmutGulmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Some Infos About Me
 
-Here are some ideas to get you started:
+- Name: Umut
+- I'm a Turkish guy who loves coding
+- For more info's look at [my persona website](https://umutdev.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Language Persences
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&layout=compact)](https://github.com/umutgulmez/github-readme-stats)
+
+# [My Persona Website](https://umutdev.xyz)
