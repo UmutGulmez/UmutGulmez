@@ -1,4 +1,4 @@
-### I'm Umut 👋
+## I'm Umut 👋
 
 # Some Infos About Me
 
@@ -10,4 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&layout=compact)](https://github.com/umutgulmez/github-readme-stats)
 
-# [My Persona Website](https://umutdev.xyz)
+# Contact Me
+
+- [Discord](https://discord.com/users/274615370214670336)
+- [Twitter]()
+- [Steam](https://steamcommunity.com/id/klyne312/)
