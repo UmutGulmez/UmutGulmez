@@ -1,6 +1,4 @@
-## I'm Umut 👋
-
-# Some Infos About Me
+#  👋 I'm Umut 👋,  Some Infos About Me
 
 - 👀 Name: **Umut**
 - 🖥️ Who?: **I'm a Turkish guy who loves coding**
