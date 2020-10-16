@@ -4,7 +4,9 @@
 
 - 👀 Name: **Umut**
 - 🖥️ Who?: **I'm a Turkish guy who loves coding**
+- 🧲 Shhhh!??: **Magnet Developer**
 - 📢 **For more info's look at** [my persona website](https://umutgulmez.github.io/)
+
 
 <br><br>
 <h1 align="center"> Contact Me </h1>
