@@ -1,4 +1,4 @@
-#  👋 I'm Umut 👋,  Some Infos About Me
+#  👋 I'm Umut,  Some Infos About Me
 
 - 👀 Name: **Umut**
 - 🖥️ Who?: **I'm a Turkish guy who loves coding**
@@ -10,6 +10,6 @@
 
 # Contact Me
 
-- [Website](https://umutdev.xyz)
+- [Website](https://umutgulmez.github.io/)
 - [Discord, "Umut.py#2112"](https://discord.com/users/274615370214670336)
 - [Steam](https://steamcommunity.com/id/klyne312/)
