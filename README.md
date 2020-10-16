@@ -1,14 +1,11 @@
 #  👋 I'm Umut,  Some Infos About Me
 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&theme=dark&layout=compact&hide_border=1"/>
+
 - 👀 Name: **Umut**
 - 🖥️ Who?: **I'm a Turkish guy who loves coding**
 - 📢 **For more info's look at** [my persona website](https://umutgulmez.github.io/)
 
-<h1 align="center"> Language Persences </h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&theme=dark&layout=compact"/>
-</p>
 
 <h1 align="center"> Contact Me </h1>
 
