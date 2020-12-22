@@ -1,11 +1,11 @@
-#  👋 I'm Umut,  Some Infos About Me
+#  👋 I'm Umut,  Some Info About Me
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&theme=dark&layout=compact&hide_border=1"/>
 
 - 👀 Name: **Umut**
 - 🖥️ Who?: **I'm a Turkish guy who loves coding**
 - 🧲 Shhhh!??: **Magnet Developer**
-- 📢 **For more info's look at** [my persona website](https://umutgulmez.github.io/)
+- 📢 **For more info look at** [my persona website](https://umutgulmez.github.io/)
 
 
 <br><br>
