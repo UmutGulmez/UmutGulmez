@@ -2,10 +2,9 @@
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&theme=dark&layout=compact&hide_border=1"/>
 
-- 👀 Name: **Umut**
-- 🖥️ Who?: **I'm a Turkish guy who loves coding**
-- 🧲 Shhhh!??: **Magnet Developer**
-- 📢 **For more info look at** [my persona website](https://umutgulmez.github.io/)
+- 👀 Name: **Umut "Umut.py" Gülmez**
+- 🖥️ Who?: **I'm a Turkish guy who loves coding, now working for @crew22 as CTO/Frontend Developer.**
+- 📢 **For more info look at** [my personal website](https://umutgulmez.github.io/).
 
 
 <br><br>
