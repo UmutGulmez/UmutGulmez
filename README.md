@@ -1,6 +1,6 @@
 #  👋 I'm Umut,  Some Info About Me
 
-<img width="250px" align="right" src="https://media1.tenor.com/images/d35c1bb8c36a875394b33834030db26b/tenor.gif?itemid=4852810" alt="dipper">
+<img width="250px" align="right" src="https://media1.tenor.com/images/e527f1731291b4827b038a477fb2949e/tenor.gif?itemid=19287771" alt="dipper">
 
 - 👀 __**Name**__: Umut "Umut.py" Gülmez
 - 🖥️ **Who?**: I'm a Turkish guy who loves coding.
