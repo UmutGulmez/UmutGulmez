@@ -1,11 +1,12 @@
 #  👋 I'm Umut,  Some Info About Me
 
+<img width="250px" align="right" src="https://media1.tenor.com/images/d35c1bb8c36a875394b33834030db26b/tenor.gif?itemid=4852810" alt="dipper">
+
 - 👀 __**Name**__: Umut "Umut.py" Gülmez
 - 🖥️ **Who?**: I'm a Turkish guy who loves coding.
 - ⚙️ **Working on:** @crew22 as CTO.
 - 🤿 **Learning:** Vue.js and Nuxt.js
 - 📢 **For more info look at** [my personal website](https://umutgulmez.github.io/).
-
 
 <details>
 <summary>My Metrics</summary>
