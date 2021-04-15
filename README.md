@@ -1,11 +1,17 @@
 #  👋 I'm Umut,  Some Info About Me
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutgulmez&theme=dark&layout=compact&hide_border=1"/>
-
-- 👀 Name: **Umut "Umut.py" Gülmez**
-- 🖥️ Who?: **I'm a Turkish guy who loves coding, now working for @crew22 as CTO/Frontend Developer.**
+- 👀 __**Name**__: Umut "Umut.py" Gülmez
+- 🖥️ **Who?**: I'm a Turkish guy who loves coding.
+- ⚙️ **Working on:** @crew22 as CTO.
+- 🤿 **Learning:** Vue.js and Nuxt.js
 - 📢 **For more info look at** [my personal website](https://umutgulmez.github.io/).
 
+
+<details open>
+<summary>My Metrics</summary>
+<br>
+<img src="https://metrics.lecoq.io/UmutGulmez?template=classic&base.metadata=0&languages=1&introduction=1&lines=1&achievements=1&languages.colors=github&languages.threshold=0%25&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=Europe%2FIstanbul">
+</details>
 
 <br><br>
 <h1 align="center"> Contact Me </h1>
