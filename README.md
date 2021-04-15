@@ -7,7 +7,7 @@
 - 📢 **For more info look at** [my personal website](https://umutgulmez.github.io/).
 
 
-<details open>
+<details>
 <summary>My Metrics</summary>
 <br>
 <img src="https://metrics.lecoq.io/UmutGulmez?template=classic&base.metadata=0&languages=1&introduction=1&lines=1&achievements=1&languages.colors=github&languages.threshold=0%25&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=Europe%2FIstanbul">
