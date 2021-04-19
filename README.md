@@ -1,7 +1,7 @@
 #  👋 I'm Umut,  Some Info About Me
 
 
-<img align="right" width="400px" src="https://metrics.lecoq.io/UmutGulmez?template=classic&languages=1&introduction=1&lines=1&achievements=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=Europe%2FIstanbul" alt="dipper">
+<img align="right" width="400px" src="https://metrics.lecoq.io/UmutGulmez?template=classic&base.header=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=Europe%2FIstanbul" alt="dipper">
 
 <img width="400px" src="https://media1.tenor.com/images/e527f1731291b4827b038a477fb2949e/tenor.gif?itemid=19287771" alt="dipper"> 
 
@@ -12,6 +12,7 @@
 - 🤿 **Learning:** Vue.js and Nuxt.js
 - 📢 **For more info look at** [my personal website](https://umutgulmez.github.io/).
 
+<hr>
 <p align="center">
   <a href="https://umutgulmez.github.io/" target="_blank">Website</a>
   |
