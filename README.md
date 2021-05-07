@@ -16,7 +16,7 @@
 <br><br>
 <h2 align="center"> Contact Me </h2>
 <p align="center">
-  <a href="https://umutgulmez.github.io/" target="_blank">Website</a>
+  <a href="https://umutdev.xyz/" target="_blank">Website</a>
   |
   <a href="https://discord.com/users/274615370214670336" target="_blank">Discord, "Umut.py#2112"</a>
   |
