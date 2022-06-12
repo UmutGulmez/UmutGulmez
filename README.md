@@ -1,6 +1,6 @@
 #  👋 I'm Umut, You don't need a telescope to take a quick look! 
 
-<img width="250px" align="right" src="https://media1.tenor.com/images/e527f1731291b4827b038a477fb2949e/tenor.gif?itemid=19287771" alt="opposite dipper">
+<img height="140px" align="right" src="https://media1.tenor.com/images/e527f1731291b4827b038a477fb2949e/tenor.gif?itemid=19287771" alt="opposite dipper">
 
 - 👀 __**Name**__: Umut Gülmez (Umut.py)
 - 🖥️ **Who?**: I'm a Turkish guy who loves coding.
