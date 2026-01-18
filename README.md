@@ -6,7 +6,7 @@
 - 🖥️ **Who?**: First-year electric and electronics eng. student who adores coding.
 - ⚙️ **Working on:** 
 - 🤿 **Learning:** Golang 
-- 📢 **For more info look at** [my portfolio(https://umututku.com).
+- 📢 **For more info look at** [my portfolio](https://umututku.com).
 
 
 <br><br>
