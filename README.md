@@ -6,13 +6,11 @@
 - 🖥️ **Who?**: First-year electric and electronics eng. student who adores coding.
 - ⚙️ **Working on:** 
 - 🤿 **Learning:** Golang 
-- 📢 **For more info look at** [my personal website](https://umutpy.xyz).
+- 📢 **For more info look at** [my portfolio(https://umututku.com).
 
 
 <br><br>
 <h2 align="center"> Contact Me </h2>
 <p align="center">
   <a href="https://discord.com/users/274615370214670336" target="_blank">Discord, "Umut.py#2112"</a>
-  |
-  <a href="https://steamcommunity.com/id/klyne312/" target="_blank">Steam</a>
 </p>
